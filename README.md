@@ -1,2 +1,2 @@
 # hello-world
-lesson1 Hello World!!
+lesson-1 Hello World!!
